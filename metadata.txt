@@ -1,0 +1,18 @@
+; the next section is mandatory
+[general]
+; start of mandatory metadata
+name=IDECANARIAS
+qgisMinimumVersion=1.8
+description=The plugin allows you to search all locations of Canary Islands
+version=version 1.04
+author=Felix Jose Hernandez
+email=fherdom@gmail.com
+homepage=http://www.idecan.grafcan.es/idecan/es/portal/descargas.html
+repository=https://github.com/fherdom/IDESearch
+tracker=https://github.com/fherdom/IDESearch/issues
+; end of mandatory metadata
+
+; experimental flag
+experimental=True
+
+
