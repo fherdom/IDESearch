@@ -6,12 +6,6 @@
 
 ###IDECanarias QGIS plugin (obsolete!!!)
 
-## Install
+## Current stable
 
- * From official repositoty [IDECanarias](http://plugins.qgis.org/plugins/IDECanarias/) 
- * Copy files to `home/felix/.qgis2/python/plugins` or `/home/felix/dev/qgis/IDECanarias` (change felix by your username)
-
-
-## Features
-
- * Search function
+ * [IDECanarias QGIS plugin](https://github.com/fherdom/IDECanarias)
